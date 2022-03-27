@@ -1,7 +1,7 @@
 ---
 label: Armas
 icon: flame
-order: 2
+order: 6
 ---
 
 # :icon-flame: Armas
@@ -11,7 +11,7 @@ Use estes itens para aumentar a sua resistencia e te tornar mais forte, além de
 ===## :icon-flame: Lista de Armas
 !!!info Raridade das Armas:
 !!!
-Espadas         | Raridade | Craftvel
+Armas         | Raridade | Craftvel
 ---             | ---  | ---
 Espada Improvisada  | Comum | Sim
 Machado Improvisado | Comum | Sim
@@ -21,7 +21,7 @@ Machado Improvisado | Comum | Sim
 !!!info Dano das Armas:
 !!!
 
-Espadas         | Dano 
+Armas         | Dano 
 ---             | --- | ---
 Espada Improvisada  | 6
 Machado Improvisado | 7
