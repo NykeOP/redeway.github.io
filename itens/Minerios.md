@@ -17,7 +17,7 @@ Pedra Reforçada | Comum
 
 
 
-!!!info :icon-package: Chance de Drop dos Minérios:
+!!!info Chance de Drop dos Minérios:
 !!!
 
 Minério         | Como é ganho | Chance
