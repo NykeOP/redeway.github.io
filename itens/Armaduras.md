@@ -1,6 +1,7 @@
 ---
 label: Armaduras
 icon: shield
+order: 3
 ---
 
 # :icon-shield: Armaduras
