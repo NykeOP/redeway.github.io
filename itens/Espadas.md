@@ -6,7 +6,7 @@ order: 6
 
 # :icon-flame: Armas
 
-Use estes itens para aumentar a sua resistencia e te tornar mais forte, além de receber efeitos ao utilizar algumas delas! 
+Para matar seus oponentes será necessarios armas com alto dano e até mesmo habilidades, com estas você poderá enfrentar diversos deles! 
 
 ===## :icon-flame: Lista de Armas
 !!!info Raridade das Armas:
