@@ -30,15 +30,15 @@ Armadura Reforçada | 7
 ===## :icon-shield: Craft das Armaduras
 Armadura Improvisada:
 +++ Capacete
-5x Lascas de Pedra
+5x Pedras Reforçadas
 ![](../static/capaceteimprovisado.png)
 +++ Peitoral
-8x Lascas de Pedra
+8x Pedras Reforçadas
 ![](../static/peitoralimprovisado.png)
 +++ Calças
-7x Lascas de Pedra
+7x Pedras Reforçadas
 ![](../static/calcaimprovisada.png)
 +++ Botas
-4x Lascas de Pedra
+4x Pedras Reforçadas
 ![](../static/botaimprovisada.png)
 +++
