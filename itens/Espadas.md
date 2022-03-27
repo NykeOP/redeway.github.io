@@ -1,15 +1,15 @@
 ---
-label: Espadas
+label: Armas
 icon: flame
 order: 2
 ---
 
-# :icon-flame: Armaduras
+# :icon-flame: Armas
 
 Use estes itens para aumentar a sua resistencia e te tornar mais forte, além de receber efeitos ao utilizar algumas delas! 
 
-===## :icon-flame: Lista de Espadas
-!!!info Raridade das Espadas:
+===## :icon-flame: Lista de Armas
+!!!info Raridade das Armas:
 !!!
 Espadas         | Raridade | Craftvel
 ---             | ---  | ---
@@ -18,7 +18,7 @@ Machado Improvisado | Comum | Sim
 
 
 
-!!!info Dano das Espadas:
+!!!info Dano das Armas:
 !!!
 
 Espadas         | Dano 
@@ -27,7 +27,7 @@ Espada Improvisada  | 6
 Machado Improvisado | 7
 ===
 
-===## :icon-flame: Craft das Espadas
+===## :icon-flame: Craft das Armas
 Itens Improvisada:
 +++ Espada
 4x Lascas de Pedra
