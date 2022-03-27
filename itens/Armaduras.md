@@ -7,7 +7,7 @@ icon: shield
 
 Use estes itens para aumentar a sua resistencia e te tornar mais forte, além de receber efeitos ao utilizar algumas delas! 
 
-===## Lista de Armaduras
+===## :icon-shield: Lista de Armaduras
 !!!info Raridade das Armaduras:
 !!!
 Armaduras         | Raridade | Craftvel
@@ -17,7 +17,7 @@ Armadura Reforçada | Comum | Sim
 
 
 
-!!!info Proteção das Armaduras:
+!!!info :icon-shield: Proteção das Armaduras:
 !!!
 
 Armaduras         | Proteção 
