@@ -7,7 +7,6 @@ icon: package
 
 ## Lista de Minérios
 ===
-
 !!!info Raridade dos Minérios:
 !!!
 Minério         | Raridade
@@ -23,4 +22,4 @@ Pedra Reforçada | Comum
 Minério         | Como é ganho | Chance
 ---             | --- | ---
 Lasca de Pedra  | Minerando Pedra | 1%
-Pedra Reforçada | Na Fornalha | 100%
+Pedra Reforçada | No Rebolo | 100%
