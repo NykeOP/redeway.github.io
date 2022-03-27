@@ -32,9 +32,9 @@ Itens Improvisada:
 +++ Espada
 4x Lascas de Pedra
 1x Graveto
-![](../static/capaceteimprovisado.png)
+![](../static/espadaimprovisada.png)
 +++ Machado
 6x Lascas de Pedra
 2x Gravetos
-![](../static/capaceteimprovisado.png)
+![](../static/machadoimprovisado.png)
 +++
