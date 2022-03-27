@@ -11,7 +11,7 @@ icon: shield
 Armaduras         | Raridade | Craftvel
 ---             | ---  | ---
 Armadura Improvisada  | Comum | Sim
-Armaduras Reforçada | Comum | Sim
+Armadura Reforçada | Comum | Sim
 
 
 
@@ -21,4 +21,4 @@ Armaduras Reforçada | Comum | Sim
 Armaduras         | Proteção 
 ---             | --- | ---
 Armadura Improvisada  | 6
-Armaduras Reforçada | 7
+Armadura Reforçada | 7
