@@ -1,5 +1,5 @@
 ---
-label: Welcome
+label: Página Inicial
 icon: home
 ---
 # :icon-home: Página Inicial
