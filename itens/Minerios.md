@@ -1,6 +1,7 @@
 ---
 label: Minérios
 icon: package
+order: 1
 ---
 
 # :icon-package: Minérios
