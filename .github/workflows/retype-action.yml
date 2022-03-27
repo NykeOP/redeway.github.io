@@ -7,7 +7,7 @@ on:
 
 jobs:
   publish:
-    name: Rede-Way RPG
+    name: RedeWay
 
     runs-on: ubuntu-latest
 
