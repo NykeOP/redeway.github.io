@@ -5,6 +5,8 @@ icon: package
 
 # :icon-package: Minérios
 
+Estes minérios são utilizados para a criação de armaduras, ferramentas, armas e outros itens!
+
 ===## Lista de Minérios
 !!!info Raridade dos Minérios:
 !!!
