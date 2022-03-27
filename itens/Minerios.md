@@ -7,7 +7,7 @@ icon: package
 
 Estes minérios são utilizados para a criação de armaduras, ferramentas, armas e outros itens!
 
-===## Lista de Minérios
+===## :icon-package: Lista de Minérios
 !!!info Raridade dos Minérios:
 !!!
 Minério         | Raridade
@@ -17,7 +17,7 @@ Pedra Reforçada | Comum
 
 
 
-!!!info Chance de Drop dos Minérios:
+!!!info :icon-package: Chance de Drop dos Minérios:
 !!!
 
 Minério         | Como é ganho | Chance
