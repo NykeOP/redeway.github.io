@@ -11,5 +11,6 @@ poweredByRetype: true # Set to false to remove the Powered by Retype branding.
 links:
   - text: Nosso Discord
     link: https://retype.com/guides/getting-started/
+favicon: static/favicon.png
 footer:
   copyright: "&copy; Copyright Rede Way 2022. Todos os direitos reservados."
