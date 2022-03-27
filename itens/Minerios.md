@@ -5,8 +5,7 @@ icon: package
 
 # :icon-package: Minérios
 
-=== Lista de Minérios
-(#Lista de Minérios)
+=== Lista de Minérios (#Lista de Minérios)
 
 
 !!!info Raridade dos Minérios:
