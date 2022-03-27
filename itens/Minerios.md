@@ -7,7 +7,7 @@ icon: package
 
 === Lista de Minérios
 
-Minério | Raridade
---- | ---
+Minério         | Raridade
+---             | ---
 Lasca de Pedra  | Comum
 Pedra Reforçada | Comum
