@@ -4,4 +4,4 @@ icon: tools
 
 # Itens
 
-- [Minerios](Minerios.md)
+- [Minérios](Minerios.md)
