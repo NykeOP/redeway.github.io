@@ -3,4 +3,4 @@ label: Minérios
 icon: package
 ---
 
-# :icon-package: Minérios
+# :icon-package:  Minérios
