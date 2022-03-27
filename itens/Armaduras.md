@@ -29,7 +29,12 @@ Armadura Reforçada | 7
 
 ===## :icon-shield: Craft das Armaduras
 Armadura Improvisada:
++++ Capacete
 ![](../static/capaceteimprovisado.png)
++++ Peitoral
 ![](../static/peitoralimprovisado.png)
++++ Caças
 ![](../static/calcaimprovisada.png)
++++ Botas
 ![](../static/botaimprovisada.png)
++++
