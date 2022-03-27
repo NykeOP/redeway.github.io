@@ -5,6 +5,8 @@ icon: shield
 
 # :icon-shield: Armaduras
 
+Use estes itens para aumentar a sua resistencia e te tornar mais forte, além de receber efeitos ao utilizar algumas delas! 
+
 ===## Lista de Armaduras
 !!!info Raridade das Armaduras:
 !!!
