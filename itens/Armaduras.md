@@ -17,7 +17,7 @@ Armadura Reforçada | Comum | Sim
 
 
 
-!!!info :icon-shield: Proteção das Armaduras:
+!!!info Proteção das Armaduras:
 !!!
 
 Armaduras         | Proteção 
