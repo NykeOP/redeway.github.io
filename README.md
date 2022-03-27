@@ -2,7 +2,7 @@
 label: Welcome
 icon: home
 ---
-# :icon-home: Bem-Vindos
+# :icon-home: Página Inicial
 
 Seja bem vindo a Wiki da 4 Temporada do RPG - Rede Way! Aqui você encontrará todos os itens, crafts e tudo sobre a historia e bosses!
 
