@@ -3,7 +3,7 @@ label: Armaduras
 icon: shield
 ---
 
-# :icon-package: Armaduras
+# :icon-shield: Armaduras
 
 ===## Lista de Armaduras
 !!!info Raridade das Armaduras:
