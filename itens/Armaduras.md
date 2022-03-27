@@ -25,3 +25,11 @@ Armaduras         | Proteção
 ---             | --- | ---
 Armadura Improvisada  | 6
 Armadura Reforçada | 7
+===
+
+===## :icon-shield: Craft das Armaduras
+Armadura Improvisada:
+![](../static/capaceteimprovisado.png)
+![](../static/peitoralimprovisado.png)
+![](../static/calcaimprovisada.png)
+![](../static/botaimprovisada.png)
