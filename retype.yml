@@ -4,6 +4,7 @@ url: https://docs.rede-way.com # Add your website address here
 branding:
   title: Rede Way
   label: RPG
+  logo: static/logo.png
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
                       # See: https://retype.com/pro
