@@ -1,4 +1,4 @@
-name: Rede Way - RPG
+name: RedeWay
 on:
   workflow_dispatch:
   push:
