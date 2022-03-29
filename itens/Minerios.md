@@ -25,4 +25,4 @@ Minério         | Como é ganho | Chance
 ---             | --- | ---
 Lasca de Pedra  | Minerando Pedra | 1%
 Pedra Reforçada | Rebolo | 100%
-Pedra Reforçada | Mesa de Trabalho | 100%
+Pedra Compactada | Mesa de Trabalho | 100%
