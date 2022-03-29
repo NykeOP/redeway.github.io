@@ -24,4 +24,5 @@ Pedra Reforçada | Comum
 Minério         | Como é ganho | Chance
 ---             | --- | ---
 Lasca de Pedra  | Minerando Pedra | 1%
-Pedra Reforçada | No Rebolo | 100%
+Pedra Reforçada | Rebolo | 100%
+Pedra Reforçada | Mesa de Trabalho | 100%
