@@ -42,3 +42,22 @@ Armadura Improvisada:
 4x Pedras Reforçadas
 ![](../static/botaimprovisada.png)
 +++
+
+Armadura de Sobrevivencia:
++++ Capacete
+4x Pedras Reforçadas
+1x Pedra Compactada
+![](../static/sobrevivenciacapa.png)
++++ Peitoral
+7x Pedras Reforçadas
+1x Pedra Compactada
+![](../static/sobrevivenciapeito.png)
++++ Calças
+6x Pedras Reforçadas
+1x Pedra Compactada
+![](../static/sobrevivenciacalca.png)
++++ Botas
+2x Pedras Reforçadas
+2x Pedra Compactada
+![](../static/sobrevivenciabota.png)
++++
