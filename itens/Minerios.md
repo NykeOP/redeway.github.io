@@ -24,5 +24,15 @@ Pedra Reforçada | Comum
 Minério         | Como é ganho | Chance
 ---             | --- | ---
 Lasca de Pedra  | Minerando Pedra | 1%
-Pedra Reforçada | Rebolo | 100%
-Pedra Compactada | Mesa de Trabalho | 100%
+Pedra Reforçada | Craftando | 100%
+Pedra Compactada | Craftando | 100%
+
+===## :icon-package: Craft dos Minerios
+Minérios de Pedra:
++++ Pedra Reforçada
+1x Lasca de Pedra (No Rebolo)
+![](../static/craftpedrareforcada.png)
++++ Pedra Compactada
+4x Pedra Reforçada
+![](../static/craftpedracompactada.png)
++++
