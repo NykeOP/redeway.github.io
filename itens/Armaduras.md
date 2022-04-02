@@ -14,7 +14,7 @@ Use estes itens para aumentar a sua resistencia e te tornar mais forte, além de
 Armaduras         | Raridade | Craftvel
 ---             | ---  | ---
 Armadura Improvisada  | Comum | Sim
-Armadura Reforçada | Comum | Sim
+Armadura de Sobrevivencia | Comum | Sim
 
 
 
@@ -24,7 +24,7 @@ Armadura Reforçada | Comum | Sim
 Armaduras         | Proteção 
 ---             | --- | ---
 Armadura Improvisada  | 6
-Armadura Reforçada | 7
+Armadura de Sobrevivencia | 7
 ===
 
 ===## :icon-shield: Craft das Armaduras
